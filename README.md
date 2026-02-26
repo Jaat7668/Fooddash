@@ -33,10 +33,6 @@ It enables users to browse food items, place orders, and track deliveries seamle
 - Checkout & place orders
 - View order history
 
-### Admin
-- Manage products
-- Monitor orders
-- Inventory control
 
 ### System
 - Secure REST APIs
@@ -52,3 +48,4 @@ It enables users to browse food items, place orders, and track deliveries seamle
 ```bash
 cd backend
 ./mvnw spring-boot:run
+
