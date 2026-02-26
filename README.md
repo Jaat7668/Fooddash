@@ -49,3 +49,14 @@ It enables users to browse food items, place orders, and track deliveries seamle
 cd backend
 ./mvnw spring-boot:run
 
+http://localhost:8080
+Frontend
+npm install
+npm run dev
+
+
+Frontend runs on:
+
+http://localhost:5173
+
+
